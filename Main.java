@@ -61,19 +61,3 @@ public class Main {
 } //End Class Main
 
 
-//********************
-// INSTRUCTOR FEEDBACK
-//********************
-
-//Chad:
-//Nice work on this one but a little heavy on the description. The header 
-//description can be brief
-//One other issue:
-//The red vertical line you see in the coding window is the line length limit.
-//It is okay to go over this line by a few characters but any more, you need to 
-//wrap your line. NetBeans can do this for you. Place your cursor in a logical 
-//breaking point in the line and simple hit return (enter) and the line of code 
-//will wrap properly. Of course, it is not advisable to do this in the middle
-//of a word or formula.
-//Just remember those moving forward. Nice job!
-//Steven
